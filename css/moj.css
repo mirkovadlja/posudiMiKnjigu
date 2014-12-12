@@ -1,0 +1,135 @@
+.slika{
+background-image: url(../img/pozadinska.jpg) ; 
+background-size: 100%;
+}
+.pozadina{
+	background-color: #F3F3F3;
+	
+}
+.center{
+margin-top: 50%;
+}
+
+.malicentar{
+margin-top:10px;
+}
+
+.siroki{
+width: 100%;
+background-color: #D6D6D6;
+color:black;
+}
+
+.login{
+color: black;
+ text-align: center
+ }
+ 
+.reg{
+padding-top: 15px;
+}
+
+.gore{
+background-color: #4D4D4D;
+text-align: right;	
+color: white;
+min-height: 90px;
+padding-top: 10px;
+
+	
+}
+.sastrane{
+width: 100%;
+background-color: #D6D6D6;
+color:black;
+margin-left:0px;
+margin-top:0px;
+margin-bottom: 0px;
+	
+	
+}
+.font{
+font-family: 'Nobile', sans-serif;	
+	
+}
+
+.grampi{
+	font-family: 'Courgette', cursive;
+	font-size: 25px;
+}
+.footer{
+	text-align: center;
+	margin-bottom: 0%;
+	
+}
+.boja{
+	background-color: #D6D6D6;
+    color: black;
+    font-family: 'Nobile', sans-serif;	
+    }
+.knjige{
+	margin-top:15px;
+}
+.slobodna{
+	color: green	
+}
+.zauzeta{
+	color:red
+}
+.centrirano{
+	text-align: center;
+	
+}
+.eror{
+	border-color: red;
+	
+}
+.trazi{
+width: 200px;
+background-color: #D6D6D6;
+color:black;
+}
+.prored{
+	line-height: 30px;
+}
+.desno{
+	text-align: right;
+}
+.pod{
+	margin-bottom:15px;
+	
+}
+.custom-combobox {
+    position: relative;
+    display: inline-block;
+  }
+  .custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+  }
+  .custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+  }
+.minimum{
+	min-height: 290px
+}
+.dolje{
+	position: absolute;	
+	bottom: 10%;
+}
+.odustani{
+width: 100%;
+background-color: #DF3C3C;
+color:black;
+}
+.aktivan{
+	background-color:#FFFFFF;
+	
+}
+.tabla{
+	align: center;
+}
